@@ -1,7 +1,7 @@
 # False Position Algorithm
 
-Algorithm that estimates the root of a function
-Uses the False Position method
+> Algorithm that estimates the root of a function
+> Uses the False Position method
 
 
 ## Inputs
